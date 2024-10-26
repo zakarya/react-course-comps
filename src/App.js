@@ -3,19 +3,22 @@ import Accordion from "./components/Accordion";
 function App() {
   const items = [
     {
-      label: "Can I use React on this project?",
+      id: "l2kj5",
+      label: "Can I use React on a project?",
       content:
-        "You can use react on any project you want. You can use react on any project you want. You can use react on any project you want.",
+        "You can use React on any project you want. You can use React on any project you want. You can use React on any project you want. You can use React on any project you want.",
     },
     {
-      label: "Can I use Javascript on this project?",
+      id: "lk2j35lkj",
+      label: "Can I use Javascript on a project?",
       content:
-        "You can use react on any project you want. You can use react on any project you want. You can use react on any project you want.",
+        "You can use React on any project you want. You can use React on any project you want. You can use React on any project you want. You can use React on any project you want.",
     },
     {
-      label: "Can I use CSS on this project?",
+      id: "l1kj2i0g",
+      label: "Can I use CSS on a project?",
       content:
-        "You can use react on any project you want. You can use react on any project you want. You can use react on any project you want.",
+        "You can use React on any project you want. You can use React on any project you want. You can use React on any project you want. You can use React on any project you want.",
     },
   ];
 
